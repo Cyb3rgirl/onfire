@@ -233,7 +233,7 @@ jalan("░░███░░░░░░░░░██████")
 jalan("░░██░░░░░░░░░░░████")
 jalan("░░░░░░░░░░░░░░░░███")
 jalan("░░░░░░░░░░░░░░░░  ")    
-jalan('       Welcome to (Onfire)
+jalan('\033[1;93m              Welcome to ONFIRE')
 print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;96mONFIRE\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 
 CorrectUsername = "onfire"
